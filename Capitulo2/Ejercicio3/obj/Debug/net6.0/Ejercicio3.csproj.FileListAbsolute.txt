@@ -1,0 +1,15 @@
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/bin/Debug/net6.0/Ejercicio3
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/bin/Debug/net6.0/Ejercicio3.deps.json
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/bin/Debug/net6.0/Ejercicio3.runtimeconfig.json
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/bin/Debug/net6.0/Ejercicio3.dll
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/bin/Debug/net6.0/ref/Ejercicio3.dll
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/bin/Debug/net6.0/Ejercicio3.pdb
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/obj/Debug/net6.0/Ejercicio3.csproj.AssemblyReference.cache
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/obj/Debug/net6.0/Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/obj/Debug/net6.0/Ejercicio3.AssemblyInfoInputs.cache
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/obj/Debug/net6.0/Ejercicio3.AssemblyInfo.cs
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/obj/Debug/net6.0/Ejercicio3.csproj.CoreCompileInputs.cache
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/obj/Debug/net6.0/Ejercicio3.dll
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/obj/Debug/net6.0/ref/Ejercicio3.dll
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/obj/Debug/net6.0/Ejercicio3.pdb
+/Users/sanderpeguero/Desktop/C#/Capitulo2/Ejercicio3/obj/Debug/net6.0/Ejercicio3.genruntimeconfig.cache
