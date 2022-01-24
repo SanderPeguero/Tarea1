@@ -2,8 +2,8 @@
 try
 {
 
-    Console.WriteLine("\n\nComprobador de numero Par o Impar");
-    Console.WriteLine("-----------------------\n\n");
+    Console.WriteLine("\n\nDeterminador de Dias de la Semana");
+    Console.WriteLine("-------------------------------------\n\n");
 
     Console.WriteLine("Ingrese un Numero: ");
     var Numero = int.Parse(Console.ReadLine());
